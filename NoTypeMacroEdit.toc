@@ -1,0 +1,10 @@
+## Interface: 80300
+## Title: NoTypeMacroEdit
+## Author: LudiusMaximus
+## Notes: Helping you to edit macros using the keyboard as little as possible.
+## RequiredDeps:
+## OptionalDeps:
+## Version: 1.0a2
+
+main.lua
+
